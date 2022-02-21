@@ -24,5 +24,4 @@ int main(){
 
     for(i=0; i<N; i++)
     cout << str[i] << " ";
-
 }
